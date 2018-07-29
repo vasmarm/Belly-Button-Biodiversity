@@ -7,7 +7,7 @@ Create a PIE chart that uses data from your samples route (/samples/<sample>) to
 - Use otu_ids as the labels for the pie chart
 - Use otu_labels as the hovertext for the chart
 
- ! [] (https://nu.bootcampcontent.com/NU-Coding-Bootcamp/NUCHI201804DATA2-Class-Repository-DATA/raw/master/15-Interactive-Visualizations-and-Dashboards/homework15/Instructions/Images/pie_chart.png)
+ ![](https://nu.bootcampcontent.com/NU-Coding-Bootcamp/NUCHI201804DATA2-Class-Repository-DATA/raw/master/15-Interactive-Visualizations-and-Dashboards/homework15/Instructions/Images/pie_chart.png)
 
 
 
@@ -24,11 +24,8 @@ Create a Bubble Chart that uses data from your samples route (/samples/<sample>)
 - Use otu_ids for the marker colors
 - Use otu_labels for the text values
 
+
 ![](https://nu.bootcampcontent.com/NU-Coding-Bootcamp/NUCHI201804DATA2-Class-Repository-DATA/raw/master/15-Interactive-Visualizations-and-Dashboards/homework15/Instructions/Images/bubble_chart.png)
-
-
-
-
 
 
 Display the sample metadata from the route /metadata/<sample>
